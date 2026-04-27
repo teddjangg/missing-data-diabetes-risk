@@ -98,7 +98,7 @@ pip install numpy pandas matplotlib seaborn missingno upsetplot scikit-learn sta
 
 ```bash
 git clone https://github.com/teddjangg/<repo-name>.git
-cd <repo-name>
+cd <missing-data-diabetes-risk>
 jupyter notebook MissingData_Imputation__and_Diabetes_Risk_Prediction.ipynb
 ```
 
